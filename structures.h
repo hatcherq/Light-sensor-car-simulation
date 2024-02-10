@@ -25,6 +25,7 @@
 struct Wall {
     int x,y;
     int width, height;
+    struct Wall *next;
 };
 
 struct Wall_collection {
