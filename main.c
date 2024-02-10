@@ -6,6 +6,7 @@
 #include "formulas.h"
 #include "wall.h"
 #include "robot.h"
+#include "math.h"   
 
 int done = 0;
 
@@ -26,6 +27,7 @@ int main(int argc, char *argv[]) {
     struct Wall_collection *head = NULL;
     int front_centre_sensor, left_sensor, right_sensor=0;
     clock_t start_time, end_time;
+    int name_index = 1; 
     int msec;
     int crashed = 0;
 
