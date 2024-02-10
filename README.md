@@ -10,7 +10,8 @@ Press enter to run sheild bot automatically or use the arrow sign on the keyboar
 
 New mazes are available under walls.md, thinner gaps between walls, wider walls, curved walls
 
-note: 
+note: the code needs to be recomplie each time the changes have been made; etc: change wall settings
+
 1. Open the terminal: ⌘ + SPACE for Spotlight > terminal > return.
 
 2. If you don't have it already, install Homebrew package manager. It is a staple for installing apps with the terminal on Mac, so it's worth getting.
