@@ -94,3 +94,5 @@ wall.c formulas.c robot.c main.c the names of your C code files.
 
 ./main
 
+Terminate the simulation by closing the temrinal window
+
